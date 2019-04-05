@@ -1,0 +1,52 @@
+{
+  "clients": [
+    {
+  "ClientIdentifierId": "12345678",
+  "IdType": "NationalId",
+  "IdNumber": "941467567v",
+  "DateOfBirth": "23/03/1441",
+  "Age": 20,
+  "PlaceOfBirth": "Colombo",
+  "FirstNameEn": "Shehan",
+  "SecondNameEn": "Chamara",
+  "ThirdNameEn": "",
+  "LastNameEn": "Cooray",
+  "HealthId": "1234",
+  "FirstNameAr": "محمد علي",
+  "SecondNameAr": "محمد علي",
+  "ThirdNameAr": "محمد علي",
+  "LastNameAr": "محمد علي",
+  "Gender": "M",
+  "Nationality": "SriLankan",
+  "NationalityCode": "LK",
+  "Occupation": "IOT-Engineer",
+  "MaritalStatus": "Single",
+  "MaritalStatusCode": "S",
+  "PatientStatus": "Alive"
+},
+        {
+  "ClientIdentifierId": "12345677",
+  "IdType": "NationalId",
+  "IdNumber": "941467547v",
+  "DateOfBirth": "23/03/2001",
+  "Age": 20,
+  "PlaceOfBirth": "Colombo",
+  "FirstNameEn": "Shehan",
+  "SecondNameEn": "Chamara",
+  "ThirdNameEn": "",
+  "LastNameEn": "Cooray",
+  "HealthId": "1234",
+  "FirstNameAr": "محمد علي",
+  "SecondNameAr": "محمد علي",
+  "ThirdNameAr": "محمد علي",
+  "LastNameAr": "محمد علي",
+  "Gender": "M",
+  "Nationality": "SriLankan",
+  "NationalityCode": "LK",
+  "Occupation": "IOT-Engineer",
+  "MaritalStatus": "Single",
+  "MaritalStatusCode": "S",
+  "PatientStatus": "Alive"
+}
+  ]
+}
